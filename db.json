@@ -1,6 +1,6 @@
 {
     "repos": [
-      {
+      { 
         "id": 1,
         "title": "json-server",
         "description": "The project",
